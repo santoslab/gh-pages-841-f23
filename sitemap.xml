@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://hatcliff.santoslab.org/bio/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>https://hatcliff.santoslab.org/lectures/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>https://hatcliff.santoslab.org/overview/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>https://hatcliff.santoslab.org/project/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>https://hatcliff.santoslab.org/tools/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>https://hatcliff.santoslab.org/categories/</loc>
+  </url><url>
+    <loc>https://hatcliff.santoslab.org/</loc>
+  </url><url>
+    <loc>https://hatcliff.santoslab.org/tags/</loc>
+  </url>
+</urlset>
