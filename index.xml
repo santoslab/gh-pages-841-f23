@@ -1,55 +1,55 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>CS 841 Homepage</title>
-    <link>https://hatcliff.santoslab.org/</link>
-    <description>Recent content on CS 841 Homepage</description>
+    <title>CS 841 Homepage (Fall 2023)</title>
+    <link>https://f23.vandv.santoslab.org/</link>
+    <description>Recent content on CS 841 Homepage (Fall 2023)</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://hatcliff.santoslab.org/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://f23.vandv.santoslab.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://hatcliff.santoslab.org/bio/</link>
+      <link>https://f23.vandv.santoslab.org/bio/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hatcliff.santoslab.org/bio/</guid>
+      <guid>https://f23.vandv.santoslab.org/bio/</guid>
       <description>John Hatcliff &amp;ndash; Bio Sketch Bio Sketch - To be Completed</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://hatcliff.santoslab.org/lectures/</link>
+      <link>https://f23.vandv.santoslab.org/lectures/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hatcliff.santoslab.org/lectures/</guid>
+      <guid>https://f23.vandv.santoslab.org/lectures/</guid>
       <description>Lectures Jason Belt, John Hatcliff, Robby, John Shackleton, Jim Carciofini, Todd Carpenter, Eric Mercer, Isaac Amundson, Junaid Babar, Darren Cofer, David Hardin, Karl Hoech, Konrad Slind, Ihor Kuz, Kent Mcleod. &amp;ldquo;Model-Driven Development for the seL4 Microkernel Using the HAMR Framework&amp;rdquo;. Journal of Systems Architecture 134 (102789), January 2023.
 John Hatcliff, Jerome Hugues, Danielle Stewart, and Lutz Wrage. &amp;ldquo;Formalization of the AADL Run-Time Services&amp;rdquo;. 11th International Symposium On Leveraging Applications of Formal Methods, Verification and Validation” (ISoLA 2022) LNCS 13702.</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://hatcliff.santoslab.org/overview/</link>
+      <link>https://f23.vandv.santoslab.org/overview/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hatcliff.santoslab.org/overview/</guid>
+      <guid>https://f23.vandv.santoslab.org/overview/</guid>
       <description>Overview This course covers advanced techniques for Software Verification (demonstrating that software meets is requirements) and Validation (demonstrating that software meets the expectations of the end-user). Verification techniques focus on automated deduction and testing. Topics related to automated deduction include applying tools that use industry-developed SMT-solvers like Microsoft&amp;rsquo;s Z3 to perform deep learning of a program&amp;rsquo;s behavior and automated checking of the discovered behavior against developer-friendly specifications with an underlying logic foundation.</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://hatcliff.santoslab.org/project/</link>
+      <link>https://f23.vandv.santoslab.org/project/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hatcliff.santoslab.org/project/</guid>
+      <guid>https://f23.vandv.santoslab.org/project/</guid>
       <description>Project Current HAMR - lead architect of HAMR (High-Assurance Modeling and Rapid engineering) - a model-driven development framework for high-assurance systems. HAMR is being used in several of US Department of Defense research projects (AFRL, US Army, DARPA). See one of my overview talks on HAMR
 Slang and Logika - I support my colleague Professor Robby, in the use and application of Slang (a high-assurance of Scala) and Logika (a highly automated and user-friendly code contract verification tool for Slang).</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://hatcliff.santoslab.org/tools/</link>
+      <link>https://f23.vandv.santoslab.org/tools/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hatcliff.santoslab.org/tools/</guid>
+      <guid>https://f23.vandv.santoslab.org/tools/</guid>
       <description>Tools This course will use the following tools, which students should have installed on laptops that can be brought to class for in-class exercises.
 Sireum
 Sireum is a programming language, software engineering, and formal methods framework developed at Kansas State University. This class will use Slang (the Sireum programming Language) and Logika (an automated SMT-based verification environment for Slang)
