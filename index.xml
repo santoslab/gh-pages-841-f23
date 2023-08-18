@@ -21,8 +21,16 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://f23.vandv.santoslab.org/lectures/</guid>
-      <description>Lectures Jason Belt, John Hatcliff, Robby, John Shackleton, Jim Carciofini, Todd Carpenter, Eric Mercer, Isaac Amundson, Junaid Babar, Darren Cofer, David Hardin, Karl Hoech, Konrad Slind, Ihor Kuz, Kent Mcleod. &amp;ldquo;Model-Driven Development for the seL4 Microkernel Using the HAMR Framework&amp;rdquo;. Journal of Systems Architecture 134 (102789), January 2023.
-John Hatcliff, Jerome Hugues, Danielle Stewart, and Lutz Wrage. &amp;ldquo;Formalization of the AADL Run-Time Services&amp;rdquo;. 11th International Symposium On Leveraging Applications of Formal Methods, Verification and Validation” (ISoLA 2022) LNCS 13702.</description>
+      <description>Lectures Overview and Background Slang and Logika Overview
+Foundations of Reasoning about Programs Basics
+Online course notes Examples Conditionals
+Methods
+Loops
+Arrays / Sequences
+Termination
+Software Development Background The Software Development Process
+Resources: FAA Requirements Engineering Management Handbook Software Process Diagrams and Steps (from California Deparment of Transportation) Testing Infrastructure and Terminology Background Unit Testing in Scalatest and JUnit
+Property-based Testing</description>
     </item>
     
     <item>
@@ -40,8 +48,8 @@ John Hatcliff, Jerome Hugues, Danielle Stewart, and Lutz Wrage. &amp;ldquo;Forma
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://f23.vandv.santoslab.org/project/</guid>
-      <description>Project Current HAMR - lead architect of HAMR (High-Assurance Modeling and Rapid engineering) - a model-driven development framework for high-assurance systems. HAMR is being used in several of US Department of Defense research projects (AFRL, US Army, DARPA). See one of my overview talks on HAMR
-Slang and Logika - I support my colleague Professor Robby, in the use and application of Slang (a high-assurance of Scala) and Logika (a highly automated and user-friendly code contract verification tool for Slang).</description>
+      <description>Project This year the course project will involve specifying and verifying the software of two medical devices:
+An &amp;ldquo;Isolette&amp;rdquo; (infant incubator) - the medical goal of the Isolette is to keep a new-born baby at an appropriate temperature for the first hours of its life by placing it in an enclosure in which the air in the enclosure can be monitored and controlled. A Patient-Controlled Analgesic (PCA) Pump - the medical goal of a PCA pump is to provide a hospital patient with pain relief by intravenously infusing opioids at intervals partially controlled by a patient.</description>
     </item>
     
     <item>
