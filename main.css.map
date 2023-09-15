@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/Users/johnhatcliff/Documents/Courses/841-Software-Testing/ksu-cs-841-web-git",
+	"sourceRoot": "/Users/hatcliff/Documents/Courses/841-Software-Testing/ksu-cs-841-web-git",
 	"sources": [
 		"themes/sireum/assets/scss/main.scss",
 		"themes/sireum/assets/scss/_normalize.scss",
