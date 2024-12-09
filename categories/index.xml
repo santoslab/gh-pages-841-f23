@@ -5,6 +5,7 @@
     <link>https://f23.vandv.santoslab.org/categories/</link>
     <description>Recent content in Categories on CS 841 Homepage (Fall 2023)</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://f23.vandv.santoslab.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <atom:link href="https://f23.vandv.santoslab.org/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
